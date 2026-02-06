@@ -1,0 +1,2 @@
+[1.0.1]
+[+] Support local AES-256 encryption for TinyMCE
