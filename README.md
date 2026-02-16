@@ -10,7 +10,7 @@ Plain text **never** gets sent to the server. When Peanut Security is enabled, t
 
 When encryption is toggled on, the saved content looks like this on the server:
 
-![Encrypted content1](assets/images/encrypted_content1.png)
+`<!--PEANUT_1.0_ENCRYPTED_TINYMCE-->0121b9fea7226cc5ce3e548ab878b10020218c89aee5fc9b366a016cf59f9472284a59efe7e845c7fa28d6c0ecb4a79c7597db1f3e5a252b3a45ac1f85f9123b+t4dMxIPWC7YsNPEZqpEKh0ut67UblxUS5Wn3sYCq8c=<!--/PEANUT_1.0_ENCRYPTED_TINYMCE-->`
 
 Only **you**, on your local device, can decrypt the content.
 

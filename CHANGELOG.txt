@@ -1,2 +1,4 @@
+[1.0.2]
+[*] Refactor initial decryption logic
 [1.0.1]
 [+] Support local AES-256 encryption for TinyMCE
